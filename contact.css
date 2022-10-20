@@ -1,7 +1,7 @@
 .div{
     margin-left: 30%;
     margin-right: 30%;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 .section, .section1{
     padding-left: 3vw;
@@ -26,3 +26,4 @@ span{
     display: block;
     margin-top: 1vw;
 }
+
