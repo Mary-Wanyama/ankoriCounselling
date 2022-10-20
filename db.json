@@ -32,6 +32,16 @@
       "id": 2,
       "email": "mikekariui@mail.com",
       "password": "i am coming home"
+    },
+    {
+      "email": "email@mail.com",
+      "password": "passwordkjkk",
+      "id": 3
+    },
+    {
+      "email": "email@mail.com",
+      "password": "yuyuuyuuyuyuuuuuty",
+      "id": 4
     }
   ],
   "review": [
