@@ -1,0 +1,28 @@
+.div{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: aqua;
+}
+.section, .section1{
+    padding-left: 3vw;
+}
+span{
+    margin-bottom: 2vw;
+    display: block;
+}
+.section1 input{
+    min-height: 2.2vw;
+    max-height: fit-content;
+    width : 90% ;
+}
+#button{
+    width: 10vw;
+    background-color: purple;
+    color: white;
+    border-radius: 4vw;
+    padding: 0.7vw;
+    font-size: 1.2vw;
+    font-weight: 700;
+    display: block;
+    margin-top: 1vw;
+}

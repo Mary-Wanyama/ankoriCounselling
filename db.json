@@ -1,0 +1,44 @@
+{
+    "contacts":[
+        {
+            "id": 1,
+            "firstName": "Mike",
+            "lastName": "Kariuki",
+            "email": "mikekariui@mail.com",
+            "message": "I look forward to coming there"
+        },
+        {
+            "id": 1,
+            "firstName": "Mike",
+            "lastName": "Kariuki",
+            "email": "mikekariui@mail.com",
+            "message": "I look forward to coming there"
+        }
+    ],
+    "login":[
+        {
+            "id":1,
+            "email":"mikekariui@mail.com", 
+            "password":"i am coming home"
+        },
+        {
+            "id":1,
+            "email":"mikekariui@mail.com", 
+            "password":"i am coming home"
+        }
+    ],
+    "review":[
+        {
+            "id":1,
+            "name": "sinatra",
+            "message": "youe services are good but could use some impovement"
+            
+        },
+        {
+            "id":2,
+            "name": "sinatra",
+            "message": "youe services are good but could use some impovement"
+            
+        }
+    ]
+}
